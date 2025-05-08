@@ -75,7 +75,7 @@
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .nav-btn > button:hover {
-  box-shadow: rgb(12, 176, 246) 0px 5px 15px;
+  box-shadow: rgb(139, 214, 246) 0px 5px 15px;
   cursor: pointer;
 }
 
@@ -96,5 +96,11 @@
 }
 
 .profile:hover {
-  box-shadow: rgb(12, 176, 246) 0px 5px 15px;
+  box-shadow: rgb(157, 217, 243) 0px 5px 15px;
+}
+
+.profile-avatar{
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
 }
